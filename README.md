@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there! I'm Maylinna ✨</h1>
+<h1 align="center">Hi there!✨</h1>
 
 <p align="center">
   💻 Data & Tech Enthusiast •  🌸 Passionate about Turning Data into Impact  
