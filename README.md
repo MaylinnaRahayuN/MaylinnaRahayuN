@@ -23,14 +23,32 @@
 
 ### 📌 Languages & Tools
 <p align="left">
+  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Postgresql/Postgresql-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Google_Data_Studio_logo.svg/2048px-Google_Data_Studio_logo.svg.png" width="40" title="Looker Studio"/>
-  <img src="https://seeklogo.com/images/A/appsheet-logo-270FA9D47E-seeklogo.com.png" width="40" title="AppSheet"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" title="Excel"/>
+
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+
+  <!-- Jupyter -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+
+  <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+
+  <!-- Excel -->
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" title="Excel"/>
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+
+  <!-- Power BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" title="Power BI"/>
+
+ ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+  ![AppSheet](https://img.shields.io/badge/AppSheet-0768AE?style=for-the-badge&logo=google&logoColor=white)
 </p>
+
+
 
 ### 🧩 Main Skills
 `Python` • `SQL` • `Data Wrangling` • `EDA` • `Machine Learning`  
