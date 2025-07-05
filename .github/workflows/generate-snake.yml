@@ -6,7 +6,7 @@ on:
   workflow_dispatch:        # bisa dijalankan manual
   push:
     branches:
-      - master              # otomatis jalan tiap push ke master/main
+      - main            # otomatis jalan tiap push ke master/main
 
 jobs:
   generate:
