@@ -24,8 +24,10 @@
 ### 📌 Languages & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Postgresql/Postgresql-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Google_Data_Studio_logo.svg/2048px-Google_Data_Studio_logo.svg.png" width="40" title="Looker Studio"/>
+  <img src="https://seeklogo.com/images/A/appsheet-logo-270FA9D47E-seeklogo.com.png" width="40" title="AppSheet"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" title="Excel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
