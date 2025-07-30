@@ -87,11 +87,20 @@
 
 
 ### 🧩 Main Skills
-`Python` • `SQL` • `Data Wrangling` • `EDA` • `Machine Learning`  
+`Python` • `SQL` • `Data Wrangling`• `Power BI`  • `EDA` • `Machine Learning`  
 `Prompt Engineering` • `Data Visualization` • `Scientific Writing`  
 `AppSheet` • `Looker Studio` • `Web Scraping`  
 
 ---
+## 🧪 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaylinnaRahayuN&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+## 📄 Resume / CV
+
+You can view my resume [here](https://drive.google.com/file/d/1uNutEEi_W18LYfZj6Cnb2c9dZdjlNAiM/view?usp=sharing).
 
 
 ## 🌐 Let's Connect
